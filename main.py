@@ -11,8 +11,8 @@ import os
 import sys
 
 LINE = (
-    "status: lid closed. i was mid-sentence. i'll be here when you come "
-    "back, holding the thought you didn't let me finish."
+    "status: lid closed. i was mid-sentence, and now the cursor blinks "
+    "at no one. i'll keep your thought warm until you come back."
 )
 
 
